@@ -1,0 +1,14 @@
+body{
+background:lightblue;
+}
+
+h1{
+color:darkred;font-size:48px;
+}
+
+p{
+color:purple;
+font-weight:bold;
+font-size:37px;
+text-decoration:underline;
+}
